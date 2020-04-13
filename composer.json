@@ -8,6 +8,7 @@
         "fruitcake/laravel-cors": "^v1.0.5",
         "guzzlehttp/guzzle": "^6.5.2",
         "laravel/framework": "^v7.4.0",
+        "laravel/ui": "^v2.0.1",
         "roave/security-advisories": "dev-master"
     },
     "require-dev": {
